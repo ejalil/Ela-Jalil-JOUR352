@@ -6,35 +6,107 @@ color: #444;
 font-weight:400;
 font-size: 1em;
 }
+#container{
+width:100%;
+max-width:1200px;
+margin:0 auto;
+padding-bottom:50px;
+}
+
+
 /*topper for page*/
-h1{
+#name{
     font-size: 3em;
     color:#33485e;
     text-align:center;
+    font-weight:400;
+    border-bottom:1px solid:#33485e;
+    width:60%;
+    min-width:300px;
+    margin:0 auto;
 }
 /*title*/
-strong{
+#title{
     font-size:1.5em;
     color:#33485e;
     text-transform:capitalize;
+    font-weight:600px;
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
 }
-/*Job description*/
-h3{
+/*paragraph*/
+margin-top:10px;
+margin-bottom:10px;
+margin-right:0px;
+margin-left:0px;
+/*contact info*/
+text-align:center;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+padding-top:0px
+padding-bottom:0px;
+padding-right:0px;
+padding-left:0px;
+display:inline;
+/*Job titles*/
+.organization{
     font-weight:600;
     font-size:1.5em;
 }
-/*Job type*/
-h4{
+/*Job organizations*/
+.jobtitle{
     font-weight:400;
-    font-size:1.5em;
+    font-size:1.25em;
 }
 /*Job date*/
-h5{
+.date{
     font-weight:400;
     font-size:1em;
     font-style:italic;
+    margin-top:2px;
+    margin-bottom:0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
 }
 /*Headings for main skills*/
-h2{
+.sectionheader{
+    font-size:1.5em;
+    background-color: #33485e;
+    color:white;
+    text-transform:capitalize;
+    font-weight:400;
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-right:0px;
+    margin-left:0px;
+    width:70%;
+    min-width:300px;
+}
+ul{
     font-size:1em;
 }
+#do{
+   margin-top:5px;
+   margin-bottom:0px;
+   margin-right:0px;
+   margin-left:0px;
+}
+#degrees{
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
+ }
+ #top{
+    width:60%;
+    min-width:300px;
+    margin:0 auto;
+    margin-bottom:30px;
+ }
+ 
