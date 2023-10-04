@@ -1,0 +1,40 @@
+style.css
+/*styles for my resume*/
+head,body{
+font-family: 'Open Sans', arial, sans-serif;
+color: #444;
+font-weight:400;
+font-size: 1em;
+}
+/*topper for page*/
+h1{
+    font-size: 3em;
+    color:#33485e;
+    text-align:center;
+}
+/*title*/
+strong{
+    font-size:1.5em;
+    color:#33485e;
+    text-transform:capitalize;
+}
+/*Job description*/
+h3{
+    font-weight:600;
+    font-size:1.5em;
+}
+/*Job type*/
+h4{
+    font-weight:400;
+    font-size:1.5em;
+}
+/*Job date*/
+h5{
+    font-weight:400;
+    font-size:1em;
+    font-style:italic;
+}
+/*Headings for main skills*/
+h2{
+    font-size:1em;
+}
