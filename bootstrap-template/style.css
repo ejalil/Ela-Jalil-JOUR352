@@ -29,3 +29,20 @@ font-family: 'Special Elite';
 .col-md-6 {
   text-align: center;
 }
+
+.col-md-4{
+  text-align:center;
+}
+.bi {
+  font-size:3em;
+}
+@media only screen and (max-width: 500px) {
+
+  .row {
+    padding-bottom:50px;
+  }
+.btn{
+  background-color:teal;
+}
+
+}
