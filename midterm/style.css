@@ -20,7 +20,7 @@ h2{
 }
 h3{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size:20px;
+    font-size:30px;
 }
 p{
     font-family: helvetica, arial, sans-serif;
@@ -45,9 +45,10 @@ img{
     color:gray;
     font-size: 9px;
 }
+/*this section is to style the pullquotes- it has a blue side border and is in italics*/
 blockquote{
     font-family:helvetica, arial, sans-serif;
-    font-size:40 px;
+    font-size:60 px;
     text-align:center;
     width:60%;
     font-weight:600px;
