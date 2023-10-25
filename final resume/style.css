@@ -1,7 +1,7 @@
 style.css
 /*styles for my resume*/
 head,body{
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family:'Lora', sans-serif;
 color: #444;
 font-weight:400;
 font-size: 1em;
@@ -109,6 +109,8 @@ ul{
    margin-bottom:0px;
    margin-right:0px;
    margin-left:0px;
+   font-size: 1.25em;
+   font-style:bold;
 }
 /*list under education*/
 #degrees{
@@ -134,7 +136,13 @@ ul{
  }
  .text{
     color:white;
+    font-weight:400px;
+    font-size: 15 px;
  }
  h2{
 font-size: 1.5em;
+ }
+ .summary{
+    font-size:0.75em;
+    color:#616161;
  }
