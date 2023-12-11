@@ -33,11 +33,10 @@ img{
 
 
 .quote{
-  font-size:2em;
+  font-size:3em;
   font-family:'Bebas Neue', sans-serif;
   color:black;
-  white-space:nowrap;
-  text-align:center;
+  margin:0 auto;
 }
 .marks{
   width:100%;
